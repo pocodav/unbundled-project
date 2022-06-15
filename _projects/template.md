@@ -24,6 +24,8 @@ The above images hope to bring some visual connection and story between the Blac
 A helpful video to learn more about the fashion.
 <iframe width="1088" height="539" src="https://www.youtube.com/embed/33U5H3NzyMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe src="https://pbs.twimg.com/media/EGXI-leWoAEu4_m.jpg" width="1024" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
+
 ## References
 
 [^1]: Here is a footnote example.
