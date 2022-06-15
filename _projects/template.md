@@ -19,7 +19,10 @@ contributors:
 
 ## Introduction
 
-The above images hope to bring some visual connection and story between the Black and Brown youth culture of zoot suiters and jazz musicians. This style of dress would go on to be perserved in the 1978 play Zoot Suit, written by Luis Valdez.
+The above images hope to bring some visual connection and story between the Black and brown youth culture of zoot suiters and the jazz musicians who inspired the dress. This style of dress would go on to be perserved in the 1978 play Zoot Suit, written by Luis Valdez. A zoot suit is usually a men's suit with high-waisted, wide-legged, tight-cuffed, pegged trousers, and a long coat with wide lapels and wide padded shoulders. 
+
+A helpful video to learn more about the fashion.
+<iframe width="1088" height="539" src="https://www.youtube.com/embed/33U5H3NzyMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## References
 
